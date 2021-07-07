@@ -14,7 +14,7 @@ requests>=2.20.0
 six
 toml
 tqdm
-troposphere
+troposphere==2.7.0
 # See https://github.com/Miserlou/Zappa/issues/2036
 Werkzeug>=2.0
 wheel
